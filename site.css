@@ -12,6 +12,8 @@ html {
     font-weight: 400;
     font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #FFFFFF;
+    background:url(background.jpg) center center no-repeat fixed;
+    background-size:cover;
   }
   
   /**
